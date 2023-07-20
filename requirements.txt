@@ -10,7 +10,7 @@ MarkupSafe==0.23
 PasteDeploy==1.5.2
 peppercorn==0.5
 py==1.11.0
-Pygments==2.7.4
+Pygments==2.15.0
 pyramid==1.7.3
 pyramid-chameleon==0.3
 pyramid-debugtoolbar==3.0.4
